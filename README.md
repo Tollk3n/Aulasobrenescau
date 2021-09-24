@@ -1,4 +1,4 @@
 # Passo-a-PassoNescau
-Fazer um nescauzinho
+Fazer um nescau
 
-  NO index tem um passo a passo de como fazer aquele nescauzinho completo.
+  No index tem um passo a passo de como fazer aquele nescau completo.
